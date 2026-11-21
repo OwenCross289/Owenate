@@ -1,0 +1,44 @@
+/* Activation durations */
+"1 minute" = "1 minute";
+"5 minutes" = "5 minutes";
+"10 minutes" = "10 minutes";
+"15 minutes" = "15 minutes";
+"30 minutes" = "30 minutes";
+"1 hour" = "1 heure";
+"2 hours" = "2 heures";
+"5 hours" = "5 heures";
+"Indefinitely" = "Indéfiniment";
+
+/* Status messages */
+"Owenate is active" = "Owenate est actif";
+"%d minutes" = "%d minutes";
+"%d seconds" = "%d secondes";
+
+/* Menu items */
+"Preferences..." = "Préférences...";
+"About Owenate" = "À propos de Owenate";
+"Quit" = "Quitter";
+
+/* Preferences instructions */
+"Owenate is now running. You can find its icon in the right side of your menu bar. Click it to disable automatic sleep, click it again to enable automatic sleep." = "Owenate est désormais en cours d’exécution. Son icône se trouve sur la droite de votre barre de menus. Cliquez dessus pour désactiver la mise en veille automatique, cliquez à nouveau pour la réactiver.";
+"Right-click (or ⌃-click) the menu bar icon to show the Owenate menu." = "Cliquez avec le bouton droit (ou maintenez ⌃ enfoncée) sur l'icône de la barre de menus pour afficher le menu Owenate.";
+
+/* Preferences labels */
+"Default duration:" = "Durée par défaut :";
+"Activate when starting Owenate" = "Activer au lancement de Owenate";
+"Deactivate when device goes to sleep manually" = "Désactiver lorsque l’appareil se met en veille manuellement";
+"Show this message when starting Owenate" = "Afficher ce message au lancement de Owenate";
+"Keep apps active" = "Garder les apps actives";
+"Prevents apps from becoming inactive and the screen saver from starting." = "Empêche les apps de devenir inactives et l'économiseur d'écran de démarrer.";
+"Close" = "Fermer";
+
+/* Menu additions */
+"Activate for" = "Activer pendant";
+"Welcome to Owenate" = "Bienvenue dans Owenate";
+
+/* About credits */
+"© 2006 Tomas Franzén\n© 2018 Michael Jones\n© 2022 Dominic Rodemer\n\nSource code:\nhttps://github.com/OwenCross289/Owenate" = "© 2006 Tomas Franzén\n© 2018 Michael Jones\n© 2022 Dominic Rodemer\n\nCode source :\nhttps://github.com/OwenCross289/Owenate";
+
+/* System messages */
+"Owenate prevents sleep" = "Owenate empêche la mise en veille";
+

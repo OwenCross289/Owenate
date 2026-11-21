@@ -1,4 +1,4 @@
-# Caffeine - AGENTS.md
+# Owenate - AGENTS.md
 
 ## Project Overview
 macOS menu bar app that prevents your Mac from sleeping.
@@ -8,11 +8,7 @@ macOS menu bar app that prevents your Mac from sleeping.
 - **UI Framework**: SwiftUI + AppKit (`NSStatusItem`, `NSHostingController`)
 - **IDE**: Xcode
 - **Platforms**: macOS
-- **Localization**: 13 languages (`src/Caffeine/Resources/*.lproj`): de, en, es, fr, it, ja, ko, nl, pt, pt-BR, ru, uk, zh-Hans
-
-## Dependencies
-- **DZFoundation** (Swift package)
-- **Sparkle** (Swift package) — auto-updates
+- **Localization**: 13 languages (`src/Owenate/Resources/*.lproj`): de, en, es, fr, it, ja, ko, nl, pt, pt-BR, ru, uk, zh-Hans
 
 ## Guides (MANDATORY)
 Read `~/Agents/Guides/xcode-project-guide.md` in full before planning or editing anything.
@@ -24,10 +20,10 @@ Read these in full before touching the matching code:
 ## Build Commands
 ```bash
 # Build
-xcodebuild -project src/Caffeine.xcodeproj -scheme "Caffeine" -destination "platform=macOS" build
+xcodebuild -project src/Owenate.xcodeproj -scheme "Owenate" -destination "platform=macOS" build
 
 # Clean
-xcodebuild -project src/Caffeine.xcodeproj -scheme "Caffeine" clean
+xcodebuild -project src/Owenate.xcodeproj -scheme "Owenate" clean
 ```
 
 ## Testing (MANDATORY)

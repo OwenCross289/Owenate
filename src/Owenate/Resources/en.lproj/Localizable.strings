@@ -1,0 +1,44 @@
+/* Activation durations */
+"1 minute" = "1 minute";
+"5 minutes" = "5 minutes";
+"10 minutes" = "10 minutes";
+"15 minutes" = "15 minutes";
+"30 minutes" = "30 minutes";
+"1 hour" = "1 hour";
+"2 hours" = "2 hours";
+"5 hours" = "5 hours";
+"Indefinitely" = "Indefinitely";
+
+/* Status messages */
+"Owenate is active" = "Owenate is active";
+"%d minutes" = "%d minutes";
+"%d seconds" = "%d seconds";
+
+/* Menu items */
+"Preferences..." = "Preferences...";
+"About Owenate" = "About Owenate";
+"Quit" = "Quit";
+
+/* Preferences instructions */
+"Owenate is now running. You can find its icon in the right side of your menu bar. Click it to disable automatic sleep, click it again to enable automatic sleep." = "Owenate is now running. You can find its icon in the right side of your menu bar. Click it to disable automatic sleep, click it again to enable automatic sleep.";
+"Right-click (or ⌃-click) the menu bar icon to show the Owenate menu." = "Right-click (or ⌃-click) the menu bar icon to show the Owenate menu.";
+
+/* Preferences labels */
+"Default duration:" = "Default duration:";
+"Activate when starting Owenate" = "Activate when starting Owenate";
+"Deactivate when device goes to sleep manually" = "Deactivate when device goes to sleep manually";
+"Show this message when starting Owenate" = "Show this message when starting Owenate";
+"Keep apps active" = "Keep apps active";
+"Prevents apps from becoming inactive and the screen saver from starting." = "Prevents apps from becoming inactive and the screen saver from starting.";
+"Close" = "Close";
+
+/* Menu additions */
+"Activate for" = "Activate for";
+"Welcome to Owenate" = "Welcome to Owenate";
+
+/* About credits */
+"© 2006 Tomas Franzén\n© 2018 Michael Jones\n© 2022 Dominic Rodemer\n\nSource code:\nhttps://github.com/OwenCross289/Owenate" = "© 2006 Tomas Franzén\n© 2018 Michael Jones\n© 2022 Dominic Rodemer\n\nSource code:\nhttps://github.com/OwenCross289/Owenate";
+
+/* System messages */
+"Owenate prevents sleep" = "Owenate prevents sleep";
+

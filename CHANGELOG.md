@@ -104,7 +104,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Japanese localization, plus localizations with dynamic layout support.
-- Preference to deactivate Caffeine when the device is manually put to sleep.
+- Preference to deactivate Owenate when the device is manually put to sleep.
 - Sonoma-styled app icon.
 - GitHub sponsorship support.
 

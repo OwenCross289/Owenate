@@ -1,10 +1,10 @@
 #!/bin/bash
 #
-# Resets Caffeine app to fresh install state
+# Resets Owenate app to fresh install state
 # Wrapper for the generic reset-app script
 #
 
-BUNDLE_ID="net.domzilla.caffeine"
+BUNDLE_ID="com.owencross289.owenate"
 RESET_APP=~/GIT/Projects/Misc/scripts/development/macos/reset-app
 
 if [[ -x "$RESET_APP" ]]; then
